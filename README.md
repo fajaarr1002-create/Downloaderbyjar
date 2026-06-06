@@ -377,9 +377,11 @@ https://github.com/fajaarr1002-create/Downloaderbyjar
 
 ---
 
-# LICENSE
+## License
 
-MIT License
+Copyright © 2026 Pajar
+
+This project is available for personal and educational purposes.
 
 ---
 
